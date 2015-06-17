@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="app.ypra.myapplication3.test">
+
+    <uses-sdk android:minSdkVersion="15" android:targetSdkVersion="21" />
+
+    <application>
+        <uses-library android:name="android.test.runner" />
+    </application>
+
+    <instrumentation android:name="android.test.InstrumentationTestRunner"
+                     android:targetPackage="app.ypra.myapplication3"
+                     android:handleProfiling="false"
+                     android:functionalTest="false"
+                     android:label="Tests for app.ypra.myapplication3"/>
+</manifest>

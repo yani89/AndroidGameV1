@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/yanipra/AndroidProject/MyApplication3/app/build/intermediates/exploded-aar/MyApplication3/andEngine/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ace55cb58f505b9428413ab12796ecd57a30436f">
+        <dex dex="/home/yanipra/AndroidProject/MyApplication3/app/build/intermediates/pre-dexed/debug/classes-c59cbc27f368790d456caa5d8bc6f482fb6191d7.jar" />
+    </item>
+    <item
+        jar="/home/yanipra/AndroidProject/MyApplication3/app/build/intermediates/exploded-aar/MyApplication3/andEnginePhysicsBox2DExtension/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c1970181a53ddc526f7b044d2c1eb3756d504b48">
+        <dex dex="/home/yanipra/AndroidProject/MyApplication3/app/build/intermediates/pre-dexed/debug/classes-d9606d4e52b387be0127a9e0e9b6f4d3c65fbfe8.jar" />
+    </item>
+    <item
+        jar="/home/yanipra/AndroidProject/MyApplication3/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/home/yanipra/AndroidProject/MyApplication3/app/build/intermediates/pre-dexed/debug/classes-2f9e2e9f30352aa7924b28fdf0ebc42e384f57de.jar" />
+    </item>
+    <item
+        jar="/root/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/home/yanipra/AndroidProject/MyApplication3/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-5c3eb70b57859c75c7a27e70cee70709b060b059.jar" />
+    </item>
+    <item
+        jar="/home/yanipra/AndroidProject/MyApplication3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/home/yanipra/AndroidProject/MyApplication3/app/build/intermediates/pre-dexed/debug/classes-36dc78854e7d9bad7f0b4656f5c9d1c686d3c513.jar" />
+    </item>
+    <item
+        jar="/home/yanipra/AndroidProject/MyApplication3/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/home/yanipra/AndroidProject/MyApplication3/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-7eb12433b65ee9c772b84dc8ed9a97701ec6fcb4.jar" />
+    </item>
+
+</items>
