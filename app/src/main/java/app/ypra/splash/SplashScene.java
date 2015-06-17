@@ -1,10 +1,11 @@
-package app.ypra.myapplication3;
+package app.ypra.splash;
 
 import org.andengine.engine.camera.Camera;
 import org.andengine.entity.sprite.Sprite;
 import org.andengine.opengl.util.GLState;
 
-import app.ypra.myapplication3.SceneManager.SceneType;
+import app.ypra.base.BaseScene;
+import app.ypra.base.SceneManager.SceneType;
 
 /**
  * Created by root on 11/04/15.

@@ -1,4 +1,4 @@
-package app.ypra.myapplication3;
+package app.ypra.base;
 
 import com.badlogic.gdx.math.Vector2;
 import com.badlogic.gdx.physics.box2d.Body;
@@ -24,13 +24,14 @@ import org.andengine.util.SAXUtils;
 import org.andengine.util.adt.align.HorizontalAlign;
 import org.andengine.util.adt.color.Color;;
 import org.andengine.util.level.EntityLoader;
-import org.andengine.util.level.LevelLoader;
 import org.andengine.util.level.constants.LevelConstants;
 import org.andengine.util.level.simple.SimpleLevelEntityLoaderData;
 import org.andengine.util.level.simple.SimpleLevelLoader;
 import org.xml.sax.Attributes;
 
 import java.io.IOException;
+
+import app.ypra.human.Player;
 
 /**
  * Created by root on 11/04/15.

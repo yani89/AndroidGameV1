@@ -1,4 +1,4 @@
-package app.ypra.myapplication3;
+package app.ypra.base;
 
 import android.app.Activity;
 
@@ -7,7 +7,8 @@ import org.andengine.engine.camera.Camera;
 import org.andengine.entity.scene.Scene;
 import org.andengine.opengl.vbo.VertexBufferObjectManager;
 
-import app.ypra.myapplication3.SceneManager.SceneType;
+import app.ypra.myapplication3.ResourcesManager;
+import app.ypra.base.SceneManager.SceneType;
 
 /**
  * Created by root on 11/04/15.

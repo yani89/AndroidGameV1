@@ -1,4 +1,4 @@
-package app.ypra.myapplication3;
+package app.ypra.Menu;
 
 
 import org.andengine.engine.camera.Camera;
@@ -10,7 +10,9 @@ import org.andengine.entity.scene.menu.item.decorator.ScaleMenuItemDecorator;
 import org.andengine.entity.sprite.Sprite;
 import org.andengine.opengl.util.GLState;
 
-import app.ypra.myapplication3.SceneManager.SceneType;
+import app.ypra.base.BaseScene;
+import app.ypra.base.SceneManager;
+import app.ypra.base.SceneManager.SceneType;
 
 /**
  * Created by root on 11/04/15.
@@ -33,7 +35,7 @@ public class MainMenuScene extends BaseScene implements IOnMenuItemClickListener
     }
 
     @Override
-    public SceneManager.SceneType getSceneType() {
+    public SceneType getSceneType() {
         return SceneType.SCENE_MENU;
     }
 

@@ -1,4 +1,4 @@
-package app.ypra.myapplication3;
+package app.ypra.human;
 
 import com.badlogic.gdx.math.Vector2;
 import com.badlogic.gdx.physics.box2d.Body;
@@ -11,6 +11,8 @@ import org.andengine.extension.physics.box2d.PhysicsFactory;
 import org.andengine.extension.physics.box2d.PhysicsWorld;
 import org.andengine.opengl.texture.region.ITiledTextureRegion;
 import org.andengine.opengl.vbo.VertexBufferObjectManager;
+
+import app.ypra.myapplication3.ResourcesManager;
 
 /**
  * Created by root on 12/04/15.

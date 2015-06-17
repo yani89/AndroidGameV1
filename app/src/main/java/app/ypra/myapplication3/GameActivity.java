@@ -16,6 +16,8 @@ import org.andengine.ui.activity.BaseGameActivity;
 
 import java.io.IOException;
 
+import app.ypra.base.SceneManager;
+
 
 public class GameActivity extends BaseGameActivity {
 

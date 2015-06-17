@@ -1,9 +1,14 @@
-package app.ypra.myapplication3;
+package app.ypra.base;
 
 import org.andengine.engine.Engine;
 import org.andengine.engine.handler.timer.ITimerCallback;
 import org.andengine.engine.handler.timer.TimerHandler;
 import org.andengine.ui.IGameInterface;
+
+import app.ypra.Menu.MainMenuScene;
+import app.ypra.myapplication3.ResourcesManager;
+import app.ypra.splash.LoadingScene;
+import app.ypra.splash.SplashScene;
 
 /**
  * Created by root on 11/04/15.
